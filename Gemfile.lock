@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    hashie (3.5.6)
+    inflecto (0.0.2)
+    oj (3.3.2)
+    puma (3.9.1)
+    rack (2.0.3)
+    roda (2.28.0)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hashie
+  inflecto
+  oj
+  puma
+  roda
+
+BUNDLED WITH
+   1.15.1
